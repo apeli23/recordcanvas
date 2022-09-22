@@ -116,7 +116,7 @@ export default function Home() {
           <br />
           <canvas id="canvas" width="300" height="300" />
           <br />
-          <button onClick={record}>RECORD</button>
+          <button id="none" onClick={record}>RECORD</button>
         </div>
       </div>
     </div>
